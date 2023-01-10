@@ -1,0 +1,10 @@
+#Prevents the "Chat messages can't be verified" toast
+prevent-toast: true
+
+#Only relevant to players who use the "NoChatReports"-Mod.
+#And it shows them a "Save Server" indicator in the Multiplayer-Menu
+mark-as-save-server: true
+
+#A message that get sent to players when they join (You can use colorcodes)
+message_on_join_on: false
+message_on_join: "&7[&4System&7] &fChatmessages on this server can't be reported"
