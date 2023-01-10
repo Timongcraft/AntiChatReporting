@@ -6,11 +6,11 @@ plugins {
 }
 
 group = "timongcraft.antichatreporting"
-version = "1.2.1"
+version = "1.2"
 description = "A AntiChatReport Plugin with more options"
 
 dependencies {
-    paperDevBundle("1.19.3-R0.1-SNAPSHOT")
+    paperDevBundle("1.19.1-R0.1-SNAPSHOT")
 }
 
 tasks {

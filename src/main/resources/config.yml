@@ -3,7 +3,7 @@ prevent-toast: true
 
 #Only relevant to players who use the "NoChatReports"-Mod.
 #And it shows them a "Save Server" indicator in the Multiplayer-Menu
-mark-as-save-server: true
+mark-as-save_server: true
 
 #A message that get sent to players when they join (You can use colorcodes)
 message_on_join_on: false
